@@ -1,7 +1,7 @@
 # Responsive Travel Website 🌊
 ###  Responsive Travel Website 🌊
 
-## (https://travelwithspkg.netlify.app/)
+## https://travelwithspkg.netlify.app/
 
 
 - Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
